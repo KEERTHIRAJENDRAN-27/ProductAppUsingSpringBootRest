@@ -15,6 +15,7 @@ import com.cts.service.ProductServiceImpl;
 public class ProductCredOperationUseSpringJpaApplication {
 
 	public static void main(String[] args) {
+		System.out.println("heyyy git");
 		SpringApplication.run(ProductCredOperationUseSpringJpaApplication.class, args);
 	}
 
